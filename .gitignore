@@ -1,0 +1,4 @@
+
+# Certificate files (if you want to exclude them)
+*.cer
+*.pfx
